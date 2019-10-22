@@ -57,11 +57,14 @@ export default secret;
 
 ### Start server
 
+```
 $ cd backend
 $ node src
+```
 
 ### Start client
 
+```
 $ cd frontend
 $ yarn start
-
+```
